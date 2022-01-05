@@ -8,10 +8,10 @@
     "email": "philip@interactiveknowledge.com"
   },
   "dependencies": {
-    "react": "^16.10.2",
-    "react-dom": "^16.10.2",
-    "react-scripts": "3.2.0",
-    "serialize-javascript": "^3.1.0"
+    "react": "^17",
+    "react-dom": "^17",
+    "react-scripts": "^5",
+    "serialize-javascript": "^3"
   },
   "scripts": {
     "start": "react-scripts start",
